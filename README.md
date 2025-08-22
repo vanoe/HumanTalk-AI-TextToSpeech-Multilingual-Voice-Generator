@@ -6,6 +6,37 @@ Multilingual support and built-in translation make reaching global audiences eff
 
 ---
 
+## 🗂️ Scheme
+
+<img src="./img/img-1.png" alt="Scheme" /> 
+
+---
+
+## 🎙️ Examples
+
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <img src="./img/img-2.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-3.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/img-4.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-5.png" alt="img" />
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
 ## 🔹 Overview
 HumanTalk allows users to:
 - Generate voiceovers from text or uploaded scripts
