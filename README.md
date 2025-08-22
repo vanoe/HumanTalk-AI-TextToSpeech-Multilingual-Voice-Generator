@@ -12,31 +12,6 @@ Multilingual support and built-in translation make reaching global audiences eff
 
 ---
 
-## 🎙️ Examples
-
-<table>
-    <tbody>
-        <tr>
-            <td>
-                <img src="./img/img-2.png" alt="img" />
-            </td>
-            <td>
-                <img src="./img/img-3.png" alt="img" />
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <img src="./img/img-4.png" alt="img" />
-            </td>
-            <td>
-                <img src="./img/img-5.png" alt="img" />
-            </td>
-        </tr>
-    </tbody>
-</table>
-
----
-
 ## 🔹 Overview
 HumanTalk allows users to:
 - Generate voiceovers from text or uploaded scripts
@@ -118,6 +93,35 @@ HumanTalk transforms the voiceover process by:
 
 ## 🎧 Audio Examples
 
+
+---
+
+## 🎙️ Examples
+
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <img src="./img/img-2.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-3.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/img-4.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-5.png" alt="img" />
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<video src="https://github.com/user-attachments/assets/ebd09599-3582-482d-9e40-90a6db0a2da0" controls preload>
+    Your browser does not support the video tag.
+</video>
 
 ---
 
