@@ -93,21 +93,21 @@ HumanTalk transforms the voiceover process by:
 
 ## 🎧 Audio Examples
 
-[▶️ Listen to audio 1](https://raw.githubusercontent.com/vanoe/Humantalk/master/audio/1.mp3)
+[▶️ Listen to audio 1](https://raw.githubusercontent.com/vanoe/HumanTalk-AI-TextToSpeech-Multilingual-Voice-Generator/master/audio/1.mp3)
 
-[▶️ Listen to audio 2](https://raw.githubusercontent.com/vanoe/Humantalk/master/audio/2.mp3)
+[▶️ Listen to audio 2](https://raw.githubusercontent.com/vanoe/HumanTalk-AI-TextToSpeech-Multilingual-Voice-Generator/master/audio/2.mp3)
 
-[▶️ Listen to audio 3](https://raw.githubusercontent.com/vanoe/Humantalk/master/audio/3.mp3)
+[▶️ Listen to audio 3](https://raw.githubusercontent.com/vanoe/HumanTalk-AI-TextToSpeech-Multilingual-Voice-Generator/master/audio/3.mp3)
 
-[▶️ Listen to audio 4](https://raw.githubusercontent.com/vanoe/Humantalk/master/audio/4.mp3)
+[▶️ Listen to audio 4](https://raw.githubusercontent.com/vanoe/HumanTalk-AI-TextToSpeech-Multilingual-Voice-Generator/master/audio/4.mp3)
 
-[▶️ Listen to audio 5](https://raw.githubusercontent.com/vanoe/Humantalk/master/audio/5.mp3)
+[▶️ Listen to audio 5](https://raw.githubusercontent.com/vanoe/HumanTalk-AI-TextToSpeech-Multilingual-Voice-Generator/master/audio/5.mp3)
 
-[▶️ Listen to audio 6](https://raw.githubusercontent.com/vanoe/Humantalk/master/audio/6.mp3)
+[▶️ Listen to audio 6](https://raw.githubusercontent.com/vanoe/HumanTalk-AI-TextToSpeech-Multilingual-Voice-Generator/master/audio/6.mp3)
 
-[▶️ Listen to audio 7](https://raw.githubusercontent.com/vanoe/Humantalk/master/audio/7.mp3)
+[▶️ Listen to audio 7](https://raw.githubusercontent.com/vanoe/HumanTalk-AI-TextToSpeech-Multilingual-Voice-Generator/master/audio/7.mp3)
 
-[▶️ Listen to audio 8](https://raw.githubusercontent.com/vanoe/Humantalk/master/audio/8.mp3)
+[▶️ Listen to audio 8](https://raw.githubusercontent.com/vanoe/HumanTalk-AI-TextToSpeech-Multilingual-Voice-Generator/master/audio/8.mp3)
 
 
 ---
