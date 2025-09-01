@@ -109,6 +109,9 @@ HumanTalk transforms the voiceover process by:
 
 [▶️ TTS Spanish male Nicolas Humantalk](https://raw.githubusercontent.com/vanoe/HumanTalk-AI-TextToSpeech-Multilingual-Voice-Generator/master/audio/8.mp3)
 
+## 📖 Texts 
+
+[Texts](./Texts/Texts.md)
 
 ---
 
