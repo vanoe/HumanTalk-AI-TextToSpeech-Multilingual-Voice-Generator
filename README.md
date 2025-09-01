@@ -11,6 +11,58 @@ Multilingual support and built-in translation make reaching global audiences eff
 <img src="./img/img-1.png" alt="Scheme" /> 
 
 ---
+## 🎧 Audio Examples
+
+[▶️ TTS English female  humantalk example](https://raw.githubusercontent.com/vanoe/HumanTalk-AI-TextToSpeech-Multilingual-Voice-Generator/master/audio/1.mp3)
+
+[▶️ TTS English female EmilyHumantalk](https://raw.githubusercontent.com/vanoe/HumanTalk-AI-TextToSpeech-Multilingual-Voice-Generator/master/audio/2.mp3)
+
+[▶️ TTS English male Alex Humantalk](https://raw.githubusercontent.com/vanoe/HumanTalk-AI-TextToSpeech-Multilingual-Voice-Generator/master/audio/3.mp3)
+
+[▶️ TTS English male humantalk example](https://raw.githubusercontent.com/vanoe/HumanTalk-AI-TextToSpeech-Multilingual-Voice-Generator/master/audio/4.mp3)
+
+[▶️ TTS spanish female Humantalk Daniela](https://raw.githubusercontent.com/vanoe/HumanTalk-AI-TextToSpeech-Multilingual-Voice-Generator/master/audio/5.mp3)
+
+[▶️ TTS Spanish female Humantalk Nina](https://raw.githubusercontent.com/vanoe/HumanTalk-AI-TextToSpeech-Multilingual-Voice-Generator/master/audio/6.mp3)
+
+[▶️ TTS Spanish female Veronica](https://raw.githubusercontent.com/vanoe/HumanTalk-AI-TextToSpeech-Multilingual-Voice-Generator/master/audio/7.mp3)
+
+[▶️ TTS Spanish male Nicolas Humantalk](https://raw.githubusercontent.com/vanoe/HumanTalk-AI-TextToSpeech-Multilingual-Voice-Generator/master/audio/8.mp3)
+
+## 📖 Texts
+
+[Texts](./Texts/Texts.md)
+
+---
+
+## 🎙️ Examples
+
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <img src="./img/img-2.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-3.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/img-4.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-5.png" alt="img" />
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<video src="https://github.com/user-attachments/assets/ebd09599-3582-482d-9e40-90a6db0a2da0" controls preload>
+    Your browser does not support the video tag.
+</video>
+
+---
 
 ## 🔹 Overview
 HumanTalk allows users to:
@@ -88,59 +140,6 @@ HumanTalk transforms the voiceover process by:
 5. **Intelligent Content Recommendations:** Suggest optimal voice styles per script
 6. **User-Specific Voice Models:** Train personal AI voices
 7. **Multi-Voice Collaboration:** Combine multiple voices for audiobooks, podcasts, or interactive storytelling
-
----
-
-## 🎧 Audio Examples
-
-[▶️ TTS English female  humantalk example](https://raw.githubusercontent.com/vanoe/HumanTalk-AI-TextToSpeech-Multilingual-Voice-Generator/master/audio/1.mp3)
-
-[▶️ TTS English female EmilyHumantalk](https://raw.githubusercontent.com/vanoe/HumanTalk-AI-TextToSpeech-Multilingual-Voice-Generator/master/audio/2.mp3)
-
-[▶️ TTS English male Alex Humantalk](https://raw.githubusercontent.com/vanoe/HumanTalk-AI-TextToSpeech-Multilingual-Voice-Generator/master/audio/3.mp3)
-
-[▶️ TTS English male humantalk example](https://raw.githubusercontent.com/vanoe/HumanTalk-AI-TextToSpeech-Multilingual-Voice-Generator/master/audio/4.mp3)
-
-[▶️ TTS spanish female Humantalk Daniela](https://raw.githubusercontent.com/vanoe/HumanTalk-AI-TextToSpeech-Multilingual-Voice-Generator/master/audio/5.mp3)
-
-[▶️ TTS Spanish female Humantalk Nina](https://raw.githubusercontent.com/vanoe/HumanTalk-AI-TextToSpeech-Multilingual-Voice-Generator/master/audio/6.mp3)
-
-[▶️ TTS Spanish female Veronica](https://raw.githubusercontent.com/vanoe/HumanTalk-AI-TextToSpeech-Multilingual-Voice-Generator/master/audio/7.mp3)
-
-[▶️ TTS Spanish male Nicolas Humantalk](https://raw.githubusercontent.com/vanoe/HumanTalk-AI-TextToSpeech-Multilingual-Voice-Generator/master/audio/8.mp3)
-
-## 📖 Texts 
-
-[Texts](./Texts/Texts.md)
-
----
-
-## 🎙️ Examples
-
-<table>
-    <tbody>
-        <tr>
-            <td>
-                <img src="./img/img-2.png" alt="img" />
-            </td>
-            <td>
-                <img src="./img/img-3.png" alt="img" />
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <img src="./img/img-4.png" alt="img" />
-            </td>
-            <td>
-                <img src="./img/img-5.png" alt="img" />
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-<video src="https://github.com/user-attachments/assets/ebd09599-3582-482d-9e40-90a6db0a2da0" controls preload>
-    Your browser does not support the video tag.
-</video>
 
 ---
 
