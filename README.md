@@ -29,9 +29,9 @@ Multilingual support and built-in translation make reaching global audiences eff
 
 [▶️ TTS Spanish male Nicolas Humantalk](https://raw.githubusercontent.com/vanoe/HumanTalk-AI-TextToSpeech-Multilingual-Voice-Generator/master/audio/8.mp3)
 
-## 📖 Texts
+## 📖 TTS Texts
 
-[Texts](./Texts/Texts.md)
+[TTS Texts](./Texts/Texts.md)
 
 ---
 
